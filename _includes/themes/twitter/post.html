@@ -11,6 +11,8 @@
       {{ content }}
     </div>
 
+{% comment %}
+<!--
   {% unless page.categories == empty %}
     <ul class="tag_box inline">
       <li><i class="icon-folder-open"></i></li>
@@ -18,6 +20,8 @@
       {% include JB/categories_list %}
     </ul>
   {% endunless %}  
+-->
+{% endcomment %}
 
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
@@ -27,6 +31,12 @@
     </ul>
   {% endunless %}  
 
+  {% include JB/sharing %}
+
+{% comment %}
+<!--
+    <hr>
+    {% include JB/comments %}
     <hr>
     <div class="pagination">
       <ul>
@@ -43,7 +53,8 @@
       {% endif %}
       </ul>
     </div>
-    <hr>
-    {% include JB/comments %}
+-->
+{% endcomment %}
+
   </div>
 </div>

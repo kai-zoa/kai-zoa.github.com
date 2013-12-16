@@ -1,0 +1,18 @@
+---
+layout: page
+title: "About"
+group: navigation
+---
+{% include JB/setup %}
+
+Kai Suzuki
+
+1. スケートボードが趣味のプログラマー
+2. 公共の福祉と自然を目指したものづくりのことを考えている
+3. 歓喜を渇望し続けている
+
+[Twitter](http://twitter.com/kai_aoz)
+
+[Facebook](http://facebook.com/kai.zoa)
+
+[giveit100](http://giveit100.com/@kai_zoa)
