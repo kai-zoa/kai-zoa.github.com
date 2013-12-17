@@ -1,41 +1,25 @@
-test 
-
-<!--
-<div class="fb-like" data-href="{{ HOME_PATH }}{{ page.url }}" data-send="false" data-layout="box_count" data-width="50" data-show-faces="false"></div>
- 
-<div class="g-plusone" data-size="tall" data-href="{{ page.url }}"></div>
- 
-<a href="http://b.hatena.ne.jp/entry/{{ page.url }}" class="hatena-bookmark-button" data-hatena-bookmark-title="{{ page.title }}" data-hatena-bookmark-layout="vertical-balloon"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" width="20" height="20" style="border: none;" /></a>
- 
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.url }}" data-text="{{ page.title }}" data-via="attrip" data-lang="ja" data-count="vertical"></a>
--->
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=YOUR_APP_ID";
-  fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
-
-<script type="text/javascript">
-  (function(){
-   var twitterWidgets = document.createElement('script');
-   twitterWidgets.type = 'text/javascript';
-   twitterWidgets.async = true;
-   twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-   document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-   })();
-</script>
-
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script');
-    po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(po, s);
-  })();
+<ul id="share" class="minimal-sharer"></ul>
+<script>
+        $(function () {
+                $('#share').minimalSharer({
+                        script: '../dist/counter.php',
+                        url: 'http://www.example.com/',
+                        site: 'Example Domain',
+                        title: 'Page Title',
+                        lang: 'ja',
+                        twitter: 'builtlast',
+                        buttons: {
+                                'twitter': 'Tweet',
+                                'facebook': 'Facebook',
+                                'gplus': 'Google+',
+                                'hatena': 'Hatena',
+                                'pinterest': 'Pin',
+                                'linkedin': 'LinkedIn',
+                                'stumble': 'StumbleUpon',
+                                'tumblr': 'Tumblr',
+                                'evernote': 'Evernote',
+                                'mail': 'Mail'
+                        }
+                });
+        });
 </script>
