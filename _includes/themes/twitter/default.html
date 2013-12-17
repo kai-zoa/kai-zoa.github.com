@@ -6,12 +6,20 @@
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
 
-<!--
-    <meta property="og:title" content="ここにタイトル" />
-    <meta property="og:type" content="ここにタイプ" />
-    <meta property="og:url" content="ここにページのURL" />
-    <meta property="og:image" content="ここにサムネイル画像のURL" />
--->
+    {% if page.is_top %}
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="{{ site.description }}" />
+    {% else %}
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 50}}" />
+    {% endif %}                                                                                                                                                                          
+    <meta property="og:site_name" content="{{ site.name }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:image" content="{{ site.url }}/img/ogp_icon.jpg" />
+    {% if page.date %}
+    <meta property="article:published_time" content="{{page.date | date_to_xmlschema}}" />
+    {% endif %}
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,9 +34,9 @@
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <!-- Minimal Sharer -->
-    <link href="{{ ASSET_PATH }}/sharer/css/minimalSarer.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/sharer/css/minimalSharer.css" rel="stylesheet">
     <script src="{{ ASSET_PATH }}/sharer/js/jquery.min.js"></script>
-    <script src="{{ ASSET_PATH }}/sharer/js/minimalSharer.js"></script>
+    <script src="{{ ASSET_PATH }}/sharer/js/minimalSharer.min.js"></script>
 
     <!-- Le fav and touch icons -->
     <!-- TODO Update these with your own images 
