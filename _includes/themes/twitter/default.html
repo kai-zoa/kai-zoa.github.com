@@ -15,8 +15,8 @@
     <meta property="og:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 50}}" />
     {% endif %}                                                                                                                                                                          
     <meta property="og:site_name" content="{{ site.name }}" />
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    <meta property="og:image" content="{{ site.url }}/img/ogp_icon.jpg" />
+    <meta property="og:url" content="{{ site.production_url }}{{ page.url }}" />
+    <meta property="og:image" content="{{ site.production_url }}/img/ogp_icon.jpg" />
     {% if page.date %}
     <meta property="article:published_time" content="{{page.date | date_to_xmlschema}}" />
     {% endif %}
