@@ -3,6 +3,9 @@
     <span>{{ page.date | date_to_long_string }}</span>
   </div>
   <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+  <div class="hatena-star">
+    <a href="PAGE_URL" style="display:none;">hatena</a>
+  </div>
   <ul id="share" class="minimal-sharer"></ul>
 </div>
 
@@ -19,9 +22,9 @@
       twitter: 'kai_aoz', 
       buttons: {
         'twitter': 'Tweet',
+        'hatena': 'Hatena',
         'facebook': 'Facebook',
         'gplus': 'Google+',
-        'hatena': 'Hatena',
         /*'pinterest': 'Pin',
         'linkedin': 'LinkedIn',
         'stumble': 'StumbleUpon',

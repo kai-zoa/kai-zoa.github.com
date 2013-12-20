@@ -1,12 +1,18 @@
 ---
 layout: page
-title: Posts
+title: kai-zoa
 tagline: 
 ---
 {% include JB/setup %}
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Kai Suzuki
+
+1. スケートボードが趣味のプログラマー
+2. 公共の福祉と自然を目指したものづくりのことを考えている
+3. 歓喜を渇望し続けている
+
+[Twitter](http://twitter.com/kai_aoz)
+
+[Facebook](http://facebook.com/kai.zoa)
+
+[giveit100](http://giveit100.com/@kai_zoa)
