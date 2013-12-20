@@ -11,6 +11,8 @@ Kai Suzuki
 2. 公共の福祉と自然を目指したものづくりのことを考えている
 3. 歓喜を渇望し続けている
 
+[GitHub](http://github.com/kai-zoa)
+
 [Twitter](http://twitter.com/kai_aoz)
 
 [Facebook](http://facebook.com/kai.zoa)
