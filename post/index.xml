@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ぞあ</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://kai-zoa.github.io/post/</link>
     <description>Recent content in Posts on ぞあ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 06 Dec 2015 12:59:14 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kai-zoa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>バトル・オブ・シリコンバレーについて</title>
-      <link>http://localhost:1313/post/about-pirates-of-silicon-valley/</link>
+      <link>http://kai-zoa.github.io/post/about-pirates-of-silicon-valley/</link>
       <pubDate>Sun, 06 Dec 2015 12:59:14 +0900</pubDate>
       
-      <guid>http://localhost:1313/post/about-pirates-of-silicon-valley/</guid>
+      <guid>http://kai-zoa.github.io/post/about-pirates-of-silicon-valley/</guid>
       <description>
 
 &lt;p&gt;この記事は &lt;a href=&#34;http://qiita.com/advent-calendar/2015/movie-for-programmers&#34;&gt;プログラマの映画 Advent Calendar 2015 - Qiita&lt;/a&gt; 3日目の記事です。&lt;/p&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>はじめに</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://kai-zoa.github.io/post/first/</link>
       <pubDate>Sun, 22 Nov 2015 18:38:38 +0900</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>http://kai-zoa.github.io/post/first/</guid>
       <description>&lt;p&gt;詳しくはないですが最近落語が好きです。今日はお昼に立川志の輔の落語を見ていました。&lt;/p&gt;
 
 &lt;p&gt;「おそらくバールのようなもので」はその下げです。&lt;/p&gt;

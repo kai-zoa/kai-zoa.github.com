@@ -6,7 +6,94 @@
     <description>Recent content on ぞあ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
+    <lastBuildDate>Sun, 06 Dec 2015 12:59:14 +0900</lastBuildDate>
     <atom:link href="http://kai-zoa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>バトル・オブ・シリコンバレーについて</title>
+      <link>http://kai-zoa.github.io/post/about-pirates-of-silicon-valley/</link>
+      <pubDate>Sun, 06 Dec 2015 12:59:14 +0900</pubDate>
+      
+      <guid>http://kai-zoa.github.io/post/about-pirates-of-silicon-valley/</guid>
+      <description>
+
+&lt;p&gt;この記事は &lt;a href=&#34;http://qiita.com/advent-calendar/2015/movie-for-programmers&#34;&gt;プログラマの映画 Advent Calendar 2015 - Qiita&lt;/a&gt; 3日目の記事です。&lt;/p&gt;
+
+&lt;p&gt;今回のテーマはこれです。少し前のドラマ映画「バトル・オブ・シリコンバレー」です。&lt;/p&gt;
+
+&lt;p&gt;[f:id:ZoAmichi:20151203222334p:plain]&lt;/p&gt;
+
+&lt;p&gt;数ある破天荒アントレプレナーのなかでも破天荒 of 破天荒であるスティーブ・ジョブズが主人公の1999年の映画です。
+主演はERで当時有名だったノア・ワイリー。
+で、上の写真見るとわかるようにビル・ゲイツさんが出てきます、この映画はスティーブとビルの青春と成功と挫折を描くドラマになってます。
+あとは大体みんな知ってる話なので映画の紹介としてはこれで終わりでもいいのですが、、&lt;/p&gt;
+
+&lt;h2 id=&#34;エンジニアとしてあがる要素:594ad67ea76cb12268551604234f96b6&#34;&gt;エンジニアとしてあがる要素&lt;/h2&gt;
+
+&lt;p&gt;スーツです。いつもだらしない格好だけど商談やデモの際には格好をつけるのが一流のビジネスマンです。&lt;/p&gt;
+
+&lt;p&gt;[f:id:ZoAmichi:20151203222349p:plain]
+[f:id:ZoAmichi:20151203222359p:plain]&lt;/p&gt;
+
+&lt;p&gt;完成しないプロダクト、そして徹夜。。
+数々の修羅場を思い出します、納期だけは絶対に変わらないという僕らの宇宙の原則です。&lt;/p&gt;
+
+&lt;p&gt;[f:id:ZoAmichi:20151203222420p:plain]&lt;/p&gt;
+
+&lt;p&gt;怒り、それは数多のエンジニアが駆動する行動原理です。
+[f:id:ZoAmichi:20151203222411p:plain]&lt;/p&gt;
+
+&lt;h2 id=&#34;人間としてあがる要素:594ad67ea76cb12268551604234f96b6&#34;&gt;人間としてあがる要素&lt;/h2&gt;
+
+&lt;p&gt;暴れたい気持ちに抗わないところです。
+[f:id:ZoAmichi:20151203222429p:plain]&lt;/p&gt;
+
+&lt;p&gt;スティーブがLキメてる一方でビルはブルドーザーで暴走しているシーンがこの映画の一番の見どころだと思います。&lt;/p&gt;
+
+&lt;h2 id=&#34;みどころ:594ad67ea76cb12268551604234f96b6&#34;&gt;みどころ&lt;/h2&gt;
+
+&lt;p&gt;この映画は若くして成功したジョブズがイケメンでかっこよくてわがままなんだけど仲間に裏切られちゃった。。でもいまは大人になってビルと一緒にビジネスしてます、よかったねというところで終わる（1999年ですね）んですが、全編を通して描かれるビルのキモくて怖い感じや、バルマーのハゲで馬鹿な感じとかが最高に歪んでていいもの見たなって気持ちになるんで友人にも見せていきたいです。&lt;/p&gt;
+
+&lt;p&gt;明日の枠はまだ空いてますが、ザ・ハッカーとか有名どころがまだあるので誰か書いてください。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>はじめに</title>
+      <link>http://kai-zoa.github.io/post/first/</link>
+      <pubDate>Sun, 22 Nov 2015 18:38:38 +0900</pubDate>
+      
+      <guid>http://kai-zoa.github.io/post/first/</guid>
+      <description>&lt;p&gt;詳しくはないですが最近落語が好きです。今日はお昼に立川志の輔の落語を見ていました。&lt;/p&gt;
+
+&lt;p&gt;「おそらくバールのようなもので」はその下げです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://kai-zoa.github.io/about/</link>
+      <pubDate>Sun, 22 Nov 2015 18:18:54 +0900</pubDate>
+      
+      <guid>http://kai-zoa.github.io/about/</guid>
+      <description>&lt;!-- {% include JB/setup %} --&gt;
+
+&lt;p&gt;Kai Suzuki - スケートボードが趣味のソフトウェア開発者&lt;/p&gt;
+
+&lt;p&gt;Principles:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;公共の福祉と自然を目指したものづくりのことを考えている&lt;/li&gt;
+&lt;li&gt;歓喜を渇望し続けている&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Living at: &lt;a href=&#34;http://geek-house-yokohama.webnode.jp/&#34;&gt;Geekhouse Yokohama&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Job: &lt;a href=&#34;http://www.wh-plus.com/&#34;&gt;Web Development / Production Management&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://github.com/kai-zoa&#34;&gt;GitHub&lt;/a&gt; &lt;a href=&#34;http://twitter.com/kai_zoa&#34;&gt;Twitter&lt;/a&gt; &lt;a href=&#34;http://facebook.com/kai.zoa&#34;&gt;Facebook&lt;/a&gt; &lt;a href=&#34;http://giveit100.com/@kai_zoa&#34;&gt;giveit100&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
