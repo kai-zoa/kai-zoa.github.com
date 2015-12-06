@@ -59,39 +59,12 @@
     </item>
     
     <item>
-      <title>about</title>
-      <link>http://kai-zoa.github.io/about/</link>
-      <pubDate>Sun, 22 Nov 2015 18:18:54 +0900</pubDate>
-      
-      <guid>http://kai-zoa.github.io/about/</guid>
-      <description>&lt;!-- {% include JB/setup %} --&gt;
-
-&lt;p&gt;Kai Suzuki - スケートボードが趣味のソフトウェア開発者&lt;/p&gt;
-
-&lt;p&gt;Principles:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;公共の福祉と自然を目指したものづくりのことを考えている&lt;/li&gt;
-&lt;li&gt;歓喜を渇望し続けている&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Living at: &lt;a href=&#34;http://geek-house-yokohama.webnode.jp/&#34;&gt;Geekhouse Yokohama&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Job: &lt;a href=&#34;http://www.wh-plus.com/&#34;&gt;Web Development / Production Management&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://github.com/kai-zoa&#34;&gt;GitHub&lt;/a&gt; &lt;a href=&#34;http://twitter.com/kai_zoa&#34;&gt;Twitter&lt;/a&gt; &lt;a href=&#34;http://facebook.com/kai.zoa&#34;&gt;Facebook&lt;/a&gt; &lt;a href=&#34;http://giveit100.com/@kai_zoa&#34;&gt;giveit100&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>はじめに</title>
-      <link>http://kai-zoa.github.io/post/2013-12-20-first/</link>
+      <link>http://kai-zoa.github.io/post/2013-12-15-first/</link>
       <pubDate>Fri, 20 Dec 2013 18:38:38 +0900</pubDate>
       
-      <guid>http://kai-zoa.github.io/post/2013-12-20-first/</guid>
-      <description>&lt;p&gt;詳しくはないですが最近落語が好きです。今日はお昼に立川志の輔の落語を見ていました。&lt;/p&gt;
-
-&lt;p&gt;「おそらくバールのようなもので」はその下げです。&lt;/p&gt;
+      <guid>http://kai-zoa.github.io/post/2013-12-15-first/</guid>
+      <description>&lt;p&gt;Advent Calendar書きたくてGitHub Pagesはじめました。&lt;/p&gt;
 </description>
     </item>
     
